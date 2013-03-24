@@ -1,4 +1,3 @@
-
 <? include('config.php');
 
 session_start();
@@ -132,7 +131,7 @@ span{
 </head>
 <body>
 <form method="POST" name="" action="">
-<input name="sender" type="text" id="texta" value="Nick"/>
+<input name="sender" type="text" id="texta" value="<?php echo $sender ?>"/>
 <div class="refresh">
 <?php
 $con = mysql_connect("$host","$user","$pass");
