@@ -17,7 +17,7 @@
 
 Instalación
 
-1. Sube los archivos de la carpeta upload a tu ftp
+1. Sube los archivos a tu ftp
 
 2. Abre config.php y edita las lineas de host,user,pass y db por las tuyas 
 
