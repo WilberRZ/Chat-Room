@@ -1,0 +1,47 @@
+// ----------------------------------------------------------------------
+
+// Copyright (c) 2013 by Wilber Rios
+// Chat Room Script 1.0
+// http://wrios.com.ni
+
+// ----------------------------------------------------------------------
+
+// Licencia
+//
+// Este Software es un Producto de WilberRZ ( [Wilber] [R]ios [Z]apata )
+// Este Software puede ser publicado con tal de tener copy (c) del creador
+// Para Mas Informacion el mail del desarrollador del software ( info.wrios@gmail.com )
+//
+
+// ----------------------------------------------------------------------
+
+Contenido
+
+1. /index.php
+
+2. /config.php
+
+3. inc/php/save.php
+
+4. inc/php/refresh.php
+
+5. css/chat.css
+
+6. js/chat/jquery-1.2.6.min.js
+
+7. js/chat/jquery.timers-1.0.0.js
+
+8. /.gitignore
+
+9. /LICENSE.md
+
+
+// ----------------------------------------------------------------------
+
+           Atencion: No retires el copy (c)
+
+// ----------------------------------------------------------------------
+
+                       WilberRZ 2013
+
+// ----------------------------------------------------------------------
