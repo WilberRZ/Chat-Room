@@ -5,10 +5,10 @@
 | AJUSTES DE BASE DE DATOS
 | -------------------------------------------------------------------
 */
-$host = 'localhost';
-$user = 'root';
+$host = '';
+$user = '';
 $pass = '';
-$bd = 'room';
+$bd = '';
 
 
 /*
